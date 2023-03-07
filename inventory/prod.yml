@@ -4,5 +4,5 @@ vector:
     vector-01:
       ansible_host: 158.160.38.153
   vars:
-    ansible_connection_type: paramiko
+    ansible_connection_type: ssh
     ansible_user: ana
