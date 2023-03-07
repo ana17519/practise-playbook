@@ -3,4 +3,3 @@ molecule_docker
 docker
 ansible-lint
 yamllint
-python==3.10.9
