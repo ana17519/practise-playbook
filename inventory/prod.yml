@@ -2,7 +2,7 @@
 vector:
   hosts:
     vector-01:
-      ansible_host: 158.160.49.15
+      ansible_host: 158.160.38.153
   vars:
     ansible_connection_type: paramiko
     ansible_user: ana
